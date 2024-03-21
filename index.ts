@@ -30,3 +30,5 @@ if (answer.Operator === "+") {
 } else if (answer.Operator === "/") {
   console.log("Result: ", answer.FirstNumber / answer.SecondNumber);
 }
+
+console.log("Run command again to use this calculator again")
